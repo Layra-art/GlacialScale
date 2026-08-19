@@ -13,7 +13,7 @@ Como líder técnica, soy la encargada absoluta de la creación y estructuració
 ### Habilidades y Enfoque técnico
 * **Áreas de interés:** Game Design, Level Design, Producción y Documentación (GDD).
 * **Herramientas y Motores:** Unity, Unreal, GitHub Desktop, metodologías ágiles para organización de tareas.
-* **Géneros favoritos:** todos los videojuegos
+* **Géneros favoritos:** Todos los videojuegos
 
 ---
 
