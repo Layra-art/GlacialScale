@@ -4,15 +4,16 @@
 * **Nombre de registro UNAD:** Juan David Martínez
 * **Rol de la industria:** Game Designer / Product Manager
 * **Ubicación:** Madrid, Cundinamarca, Colombia
-* **Contacto:** *(Puedes añadir tu correo o dejarlo para el grupo de WhatsApp)*
 
-### Perfil Profesional
-Apasionada por el desarrollo de videojuegos, la estructuración de ideas centrales, la documentación técnica y la organización de flujos de trabajo semanales para el equipo. Me enfoco en el diseño de mecánicas de juego, la narrativa interactiva y la gestión del cronograma para asegurar que las entregas se cumplan a tiempo y con la mejor calidad posible.
+### Perfil:
+Chica trans especializada en la dirección estratégica de proyectos interactivos, liderazgo de equipos y diseño narrativo dentro de la industria de los videojuegos. Mi enfoque combina el Game Design con la producción, liderando la visión de proyectos activos bajo Unreal Engine 5 (UE5) desde la fase conceptual y de planificación. Poseo una gran capacidad para estructurar la arquitectura de historias interactivas, la construcción de mundos (worldbuilding), el guionismo y la definición de mecánicas.
+Como líder técnica, soy la encargada absoluta de la creación y estructuración de la documentación maestra (GDD y TDD). Mi rol no es la implementación directa en el motor, sino plasmar y definir detalladamente las reglas, sistemas y niveles sobre el papel. De esta forma, sirvo como el mapa guía que orienta con precisión a las áreas de programación, arte y sonido, centralizando la comunicación y organizando los objetivos semanales para transformar las ideas en un producto final pulido y de alto impacto.
+
 
 ### Habilidades y Enfoque técnico
 * **Áreas de interés:** Game Design, Level Design, Producción y Documentación (GDD).
-* **Herramientas y Motores:** Unity, GitHub Desktop, metodologías ágiles para organización de tareas.
-* **Géneros favoritos:** Shooters tácticos, juegos de supervivencia por hordas y acción en tercera persona.
+* **Herramientas y Motores:** Unity, Unreal, GitHub Desktop, metodologías ágiles para organización de tareas.
+* **Géneros favoritos:** todos los videojuegos
 
 ---
 
