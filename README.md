@@ -27,7 +27,7 @@ Apasionada por el desarrollo de videojuegos, la estructuración de ideas central
 
 ### Mi Foto Personal:
 
-![Foto personal](Juan/Foto Personal.jpg)
+![Foto personal](Juan/Foto_Personal.jpeg)
 
 
 
