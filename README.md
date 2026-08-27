@@ -10,9 +10,9 @@
 
 **Ubicación:** Madrid, Cundinamarca, Colombia
 
-### Perfil Profesional
+### Perfil Personal
 
-Apasionada por el desarrollo de videojuegos, la estructuración de ideas centrales, la documentación técnica y la organización de flujos de trabajo semanales para el equipo. Me enfoco en el diseño de mecánicas de juego, la narrativa interactiva y la gestión del cronograma para asegurar que las entregas se cumplan a tiempo y con la mejor calidad posible.
+Soy una chica trans a la que le encantan los videojuegos y los mundos de fantasía. Me apasiona el desarrollo de videojuegos, especialmente crear ideas y diseñar mecánicas, niveles e historias. Me interesa particularmente el área de Game Design, donde puedo combinar mi creatividad con mi gusto por crear experiencias y mundos únicos.
 
 ### Habilidades y Enfoque técnico
 
