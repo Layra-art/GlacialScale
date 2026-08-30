@@ -2,36 +2,36 @@
 
 
 
-## Perfil de Layra Julieth
+## Layra Julieth's Profile
 
-**Nombre de registro UNAD:** Juan David Martínez
+**Unad registration name:** Juan David Martínez
 
-**Rol de la industria:** Game Designer / Product Manager
+**Role of industry** Game Designer / Product Manager
 
-**Ubicación:** Madrid, Cundinamarca, Colombia
+**Location:** Madrid, Cundinamarca, Colombia
 
-### Perfil Personal
+### Personal Profile
 
 Soy una chica trans a la que le encantan los videojuegos y los mundos de fantasía. Me apasiona el desarrollo de videojuegos, especialmente crear ideas y diseñar mecánicas, niveles e historias. Me interesa particularmente el área de Game Design, donde puedo combinar mi creatividad con mi gusto por crear experiencias y mundos únicos.
 
-### Habilidades y Enfoque técnico
+### Skills and Technical Approach
 
-**Áreas de interés:** Game Design, Level Design, Producción y Documentación (GDD).
+**Areas of interest:** Game Design, Level Design, Producción y Documentación (GDD).
 
-**Herramientas y Motores:** Unity, GitHub Desktop, metodologías ágiles para organización de tareas.
+**Tools and Engines:** Unity, GitHub Desktop, metodologías ágiles para organización de tareas.
 
-**Géneros favoritos:** Todo tipo de juego
-
-
+**Favorite genres:** Todo tipo de juego
 
 
-### Mi Foto Personal:
+
+
+### My Personal Photo:
 
 ![Foto personal](Juan/Foto_Personal.jpeg)
 
 
 
-### Mi Plato Favorito:
+### My Favorite Dish:
 
 ![Plato Favorito](Juan/pizza.jpg)
 
