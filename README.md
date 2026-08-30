@@ -1,19 +1,16 @@
 # GlacialScale
 
-## Integrantes
-
 ### Daniel Garzon
 
 ![Foto de Daniel](Daniel/foto_daniel.jpeg)
 
-**Rol:** Sonido  
-**Ubicación:** [Tocancipa,Cundinamarca, Colombia]
+**Role:** Sound Designer
+**Location:** [Tocancipá, Cundinamarca, Colombia]
 
-**Perfil:**  
-Estudiante, Dj y productor interesado en el desarrollo multimedia y la creación de experiencias interactivas. 
-Como integrante del equipo, aportaré principalmente en el área de sonido, trabajando en la 
-ambientación y los efectos sonoros que contribuyan a la experiencia del videojuego.
+**Profile:**
+Student, DJ, and producer interested in multimedia development and the creation of interactive experiences.
+As a member of the team, I will mainly contribute to the sound area, working on the atmosphere and sound effects that will enhance the video game experience.
 
-**Plato favorito:** Galletas
+**Favorite food:** Cookies
 
 ![Galletas](Daniel/galletas.jpg)
